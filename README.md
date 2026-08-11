@@ -4,7 +4,9 @@
 I work as a **Data Engineer** at **Metasite Data Insights**, building and maintaining ETL pipelines for gaming/betting analytics.
 
 🔧 Production stack: **ClickHouse**, **Apache Airflow**, **Python**, **Tableau**, **dbt** (upcoming)
+
 📊 Building ETL pipelines, handling data quality checks, and creating Tableau datasources for efficient and informative reporting
+
 🎓 Pursuing an **MSc in Data Science** at Vilnius University (gradutated BSc also from VU), now pushing further into ML, causal inference, and applied modeling
 
 Data Science projects
