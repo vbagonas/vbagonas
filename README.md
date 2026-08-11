@@ -1,10 +1,10 @@
-<h1 align="center">Welcome to my Github 👋</h1>
+<h1 align="center">Welcome!👋 I am Vytenis</h1>
 <h3 align="center">Currently working as data engineer/analyst @ Metasite Data Insights</h3>
 
-Big academic background in statistics:
+With big academic background in statistics:
 - 🌱 I have graduated with BSc in **Data Science** from **Vilnius University**
 - 🌱 I have completed a **Data analytics** course at **Turing College**
-
+- 🌱 Currently pursuing MSc in **Data Science** at **Vilnius University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
