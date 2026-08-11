@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vytenis</h1>
-<h3 align="center">Data enthusiast looking for internship or job opportunities</h3>
+<h1 align="center">Welcome to my Github 👋</h1>
+<h3 align="center">Currently working as data engineer/analyst @ Metasite Data Insights</h3>
 
-- 🌱 I have completed a **Data analytics** course at **Turing College**
+Big academic background in statistics:
 - 🌱 I have graduated with BSc in **Data Science** from **Vilnius University**
+- 🌱 I have completed a **Data analytics** course at **Turing College**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
