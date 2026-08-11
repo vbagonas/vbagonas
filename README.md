@@ -10,6 +10,7 @@ I work as a **Data Engineer** at **Metasite Data Insights**, building and mainta
 🎓 Pursuing an **MSc in Data Science** at Vilnius University (gradutated BSc also from VU), now pushing further into ML, causal inference, and applied modeling
 
 <h3 align="left">Notable projects:</h3>
+
 - Bakalaurinis-darbas — my bachelor's thesis project where I implemented ML models to classify signals hypoid gears.
 - NLP_Project — group project in NLP class where we finetuned mathbert model and classified mathematical problems.
 - Kursinis — group project as course work where we used language models to create embeddings of programming code fragments and stored them in vector database, later to perform similarity search.
