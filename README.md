@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I'm Vytenis 👋</h1> <p align="center"> Data Engineer building production pipelines for reporting — with a growing focus on applied data science. </p>
 
-What I do
-
+**What I do**:
 I work as a **Data Engineer** at **Metasite Data Insights**, building and maintaining ETL pipelines for gaming/betting analytics.
 
 🔧 Production stack: **ClickHouse**, **Apache Airflow**, **Python**, **Tableau**, **dbt** (upcoming)
