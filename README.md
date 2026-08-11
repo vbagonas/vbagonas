@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Vytenis 👋</h1> <p align="center"> Data Engineer building production pipelines for reporting — with a growing focus on applied data science. </p>
 
 <h3 align="left">What I do:</h3>
+
 I work as a **Data Engineer** at **Metasite Data Insights**, building and maintaining ETL pipelines for gaming/betting analytics.
 
 🔧 Production stack: **ClickHouse**, **Apache Airflow**, **Python**, **Tableau**, **dbt** (upcoming)
@@ -17,6 +18,7 @@ I work as a **Data Engineer** at **Metasite Data Insights**, building and mainta
 - NoSQL_project - group project at NoSQL course where we built our ticket distribution website and deployed several non-relational databases for different needs.
 
 <h3 align="left">Background:</h3>:
+
 - BSc in **Data Science**, **Vilnius University** 
 - **Data analytics** course, **Turing College**
 - Currently deepening knowledge and skills in MSc **Data Science**, **Vilnius University**
