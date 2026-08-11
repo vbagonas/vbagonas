@@ -17,7 +17,7 @@ I work as a **Data Engineer** at **Metasite Data Insights**, building and mainta
 - Kursinis — group project as course work where we used language models to create embeddings of programming code fragments and stored them in vector database, later to perform similarity search.
 - NoSQL_project - group project at NoSQL course where we built our ticket distribution website and deployed several non-relational databases for different needs.
 
-<h3 align="left">Background:</h3>:
+<h3 align="left">Background:</h3>
 
 - BSc in **Data Science**, **Vilnius University** 
 - **Data analytics** course, **Turing College**
