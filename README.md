@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I'm Vytenis 👋</h1> <p align="center"> Data Engineer building production pipelines for reporting — with a growing focus on applied data science. </p>
 
-<h3 align="left">What I do:</h3>:
-
+<h3 align="left">What I do:</h3>
 I work as a **Data Engineer** at **Metasite Data Insights**, building and maintaining ETL pipelines for gaming/betting analytics.
 
 🔧 Production stack: **ClickHouse**, **Apache Airflow**, **Python**, **Tableau**, **dbt** (upcoming)
@@ -22,8 +21,7 @@ I work as a **Data Engineer** at **Metasite Data Insights**, building and mainta
 - Currently deepening knowledge and skills in MSc **Data Science**, **Vilnius University**
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" /> </p>
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">
